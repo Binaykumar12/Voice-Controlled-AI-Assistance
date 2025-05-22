@@ -51,5 +51,6 @@ Assistant: Opening Google
 
 You: Multiply 7 and 8
 Assistant: The result is 56
+
 📄 License
 This project is for learning and personal use. Licensed under the MIT License.
